@@ -10,10 +10,9 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: SNES - EarthBound Mother 2 - Twoson Happy Happy Village Tileset Exterior
-    (1)_388
+  m_Name: Serene_Village_32x32_23
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1017778548, guid: aab0dfa8218787e48b8deee808d3f538, type: 3}
+  m_Sprite: {fileID: 1684542481, guid: 4e533d84d82edb9408a5d801d7213e43, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1
